@@ -31,8 +31,7 @@ CSS: For styling the game board and making the game responsive.
 JavaScript: For game logic, player turns, and determining the winner or draw.
 
 
-![Screenshot 2024-10-17 134659](https://github.com/user-attachments/assets/caab2136-d8d1-4d24-a13b-cbfad7864f4e)
+![Screenshot 2024-10-17 134726](https://github.com/user-attachments/assets/7436b102-6794-4ed3-ab85-b12e39144949)
+![Screenshot 2024-10-17 135142](https://github.com/user-attachments/assets/69cd9e3a-130f-4661-b5f4-1a7ee4f32af4)
+![Screenshot 2024-10-17 134659](https://github.com/user-attachments/assets/4abca713-6a46-44c9-aa94-5026a3e83797)
 
-![Screenshot 2024-10-17 135142](https://github.com/user-attachments/assets/1db1e291-d4ec-4173-b9fd-7dbc9726c028)
-
-![Screenshot 2024-10-17 134726](https://github.com/user-attachments/assets/9064e437-0208-4e1d-a892-c64b757b1c2d)
